@@ -88,7 +88,8 @@ ax.set_title("Ibn Khaldun's Cyclical Theory of Empires", fontsize=16, pad=20, we
 
 fig.text(0.52, -0.01, "Based on the Asabiyyah concept from Ibn Khaldun's Muqaddimah (1377 CE)", 
          ha='center', fontsize=9, color='#808080',weight='semibold')
-
+fig.text(0.95, 0.02, "@Abrarafi",
+         ha='right', fontsize=10, color='#808080',weight='semibold')
 
 plt.tight_layout()
 plt.savefig('ibn_khaldun_cycle.svg', bbox_inches='tight')
