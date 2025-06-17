@@ -1,7 +1,7 @@
 # Ibn Khaldun's Cyclical Theory of Empires
 ![ibn_khaldun_cycle (1)](https://github.com/user-attachments/assets/1c49cae6-56c1-4909-88db-eda77c67cadf)
 
-
+---
 ### **1. Graph Structure (Digitally Drawn Concept)**  
 #### **Axes & Shape**  
 - **X-axis:** Time (0–120 years, representing ~4 generations).  
